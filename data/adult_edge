@@ -1,0 +1,23 @@
+Sex,Marital Status,Sex
+Sex,Relationship,Sex
+Sex,Hours per week,Sex
+Sex,Age,None
+Age,Marital Status,Age
+Age,Workclass,Age
+Age,Hours per week,Age
+Age,Education-Num,Age
+Age,Relationship,Age
+Race,Education-Num,Race
+Race,Marital Status,Race
+Race,Hours per week,Race
+Country,Education-Num,Country
+Country,Marital Status,Country
+Country,Workclass,Country
+Country,Relationship,Country
+Marital Status,Hours per week,Marital Status
+Marital Status,Relationship,Marital Status
+Marital Status,Education-Num,Marital Status
+Marital Status,Workclass,Marital Status
+Education-Num,Workclass,Education-Num
+Education-Num,Hours per week,Education-Num
+Education-Num,Relationship,Education-Num
